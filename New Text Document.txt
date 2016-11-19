@@ -7,6 +7,7 @@ git init
 git add [files] - committed (2)
 git status
 git commit -m "message" (3) - turning in
+git push
 git diff 
 git log
 vim [file] (then press escape, (semicolon): exit) (1)

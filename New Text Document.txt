@@ -1,0 +1,14 @@
+cd 
+mkdir
+ls
+git config --global user.name "your name"
+git config --global user.email "your email"
+git init
+git add [files] - committed (2)
+git status
+git commit -m "message" (3) - turning in
+git diff 
+git log
+vim [file] (then press escape, (semicolon): exit) (1)
+git reset HEAD [filename] 
+git checkout -- [filename]

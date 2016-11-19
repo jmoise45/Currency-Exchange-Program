@@ -13,3 +13,4 @@ git log
 vim [file] (then press escape, (semicolon): exit) (1)
 git reset HEAD [filename] 
 git checkout -- [filename]
+git
